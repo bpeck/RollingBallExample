@@ -1,0 +1,835 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wheelR",
+				"wheelRotationIncrement"
+			],
+			[
+				"f",
+				"forward"
+			],
+			[
+				"delta",
+				"deltaPosition"
+			],
+			[
+				"angl",
+				"angleOfTravel"
+			],
+			[
+				"L",
+				"Log"
+			],
+			[
+				"an",
+				"angleOfTravel"
+			],
+			[
+				"whee",
+				"wheelRadii"
+			],
+			[
+				"c",
+				"currentXfm"
+			],
+			[
+				"tr",
+				"Transform"
+			],
+			[
+				"wheel",
+				"wheelAxleLocalAxis"
+			],
+			[
+				"UNITY_",
+				"UNITY_LICENSE_CONTENT"
+			],
+			[
+				"UNITY",
+				"UNITY_LICENSE_CONTENT"
+			],
+			[
+				"fl",
+				"flat_grid12"
+			],
+			[
+				"a",
+				"avg_coeff"
+			],
+			[
+				"gri",
+				"grid_x"
+			],
+			[
+				"pi",
+				"pixels_per_cell_h"
+			],
+			[
+				"bu",
+				"bucket_y"
+			],
+			[
+				"buck",
+				"bucket_x"
+			],
+			[
+				"buc",
+				"bucket_p"
+			],
+			[
+				"grid",
+				"grid_avgs"
+			],
+			[
+				"bucket",
+				"bucket_y"
+			],
+			[
+				"bucket_",
+				"bucket_x"
+			],
+			[
+				"num",
+				"numy"
+			],
+			[
+				"photo",
+				"photo_data"
+			],
+			[
+				"ph",
+				"photo_data"
+			],
+			[
+				"at",
+				"atlas_datas"
+			],
+			[
+				"atl",
+				"atlas_ids"
+			],
+			[
+				"atlas",
+				"atlas_base_name"
+			],
+			[
+				"pho",
+				"photos_per_atlas"
+			],
+			[
+				"nu",
+				"num_atlases"
+			],
+			[
+				"sc",
+				"scrape_model_path"
+			],
+			[
+				"num_",
+				"num_tiles_per_side"
+			],
+			[
+				"scrape",
+				"scrape_ids"
+			],
+			[
+				"atlas1",
+				"atlas1_datas"
+			],
+			[
+				"scra",
+				"scrape_id"
+			],
+			[
+				"all",
+				"all_photos_same_size"
+			],
+			[
+				"load",
+				"loaded_photos_sizes"
+			],
+			[
+				"scrap",
+				"scrape_ids"
+			],
+			[
+				"atlas_ima",
+				"atlas_image_path"
+			],
+			[
+				"atlas_",
+				"atlas_size"
+			],
+			[
+				"pack",
+				"packed_size"
+			],
+			[
+				"pac",
+				"packed_photos_positions"
+			],
+			[
+				"photos",
+				"loaded_photos_sizes"
+			],
+			[
+				"phot",
+				"photo_ids"
+			],
+			[
+				"lo",
+				"loaded_photos_sizes"
+			],
+			[
+				"sta",
+				"scrape_start_idx"
+			],
+			[
+				"row",
+				"row_model"
+			],
+			[
+				"_iter",
+				"_iterkeys"
+			],
+			[
+				"to",
+				"to_int"
+			],
+			[
+				"l_",
+				"l_mean"
+			],
+			[
+				"rgb",
+				"rgb_3x3_mean"
+			],
+			[
+				"ana",
+				"analysis_key"
+			],
+			[
+				"img_",
+				"img_box"
+			],
+			[
+				"analy",
+				"analysis_key"
+			],
+			[
+				"anal",
+				"analysis_keys"
+			],
+			[
+				"local_",
+				"local_img_url_key"
+			],
+			[
+				"new",
+				"new_row_idx"
+			],
+			[
+				"cur",
+				"current_page_idx"
+			],
+			[
+				"dic",
+				"dictionary_file"
+			],
+			[
+				"eng",
+				"english_words"
+			],
+			[
+				"prog",
+				"prog_file"
+			],
+			[
+				"curren",
+				"current_page_idx"
+			],
+			[
+				"scrape_",
+				"scrape_src_id"
+			],
+			[
+				"val",
+				"valid_keys"
+			],
+			[
+				"is",
+				"is_valid"
+			],
+			[
+				"json_",
+				"json_file_path"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/TireRotationFromMovement.cs",
+			"settings":
+			{
+				"buffer_size": 3386,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/RollingBall.cs",
+			"settings":
+			{
+				"buffer_size": 314,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/fable/lucy-puppet/packages.config",
+			"settings":
+			{
+				"buffer_size": 634,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Assets/Scripts/MoveForward.cs",
+			"settings":
+			{
+				"buffer_size": 889,
+				"encoding": "UTF-8 with BOM",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 490.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remove package",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 532.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+			"2 + (3 * 0)",
+			"1 + (3 * 0)",
+			"math.floor((3*1)/150)",
+			"math.floor((3*100)/150)",
+			"math.floor((3*99)/150)",
+			"_/150",
+			"99*3",
+			"math.floor(250/150)",
+			"250%150",
+			"math.floor(249/150)",
+			"249%150",
+			"(1,2,3)[0:2]",
+			"(1,2,3)[0:1]",
+			"a=21900",
+			"5%2",
+			"math.floor(5/2)",
+			"5 / 2",
+			"[[0.0]*2]*3",
+			"[[0.0]*2]*2",
+			"[[0.0]*9]*9",
+			"[0.0]*9",
+			"[0] * 9",
+			"math.floor(4.999)",
+			"math.floor",
+			"import math",
+			"floor",
+			"import PIL",
+			"dict.del",
+			"os.path.splitext(os.path.basename(\"a/b/c/d.est\"))[0]",
+			"os.path.splitext(os.path.basename(\"a/b/c/d.est\"))",
+			"os.path.basename(\"a/b/c/d.est\").splitext()",
+			"dir(os.path)",
+			"os.path.basename(\"a/b/c/d.est\")",
+			"os.path.ext",
+			"os.path.stripext",
+			"import os",
+			"ImageAtlaser.py",
+			"from .. import src",
+			"from src import src",
+			"import src",
+			"src",
+			"os.path.relpath(a, \"d:/projects/imgscrape/src\")",
+			"os.path.relpath(b, \"d:/projects\")",
+			"b",
+			"b=os.path.abspath(\"../\"+a)",
+			"os.path.abspath(\"../\"+a)",
+			"cwd",
+			"os.cwd",
+			"os.path.cwd",
+			"os.path.abspath(a)",
+			"os",
+			"a",
+			"int(4.999)",
+			"int(4.5)",
+			"int(4.3)",
+			"os.path.abspath(\"../\"+a)",
+			"os.path.abspath(a)",
+			"a",
+			"os.path.relpath(a, \"..\")",
+			"a",
+			"os.path.relpath(a)",
+			"os.path.abspath(a)",
+			"os.path.abspath(a, \"./..\")",
+			"os.path.abspath(a, \"..\")",
+			"os.path.abspath(a)",
+			"a = \"..\\\\data\\\\img\\\\7\\\\3\\\\0.jpg\"",
+			"os.path.abspath(\"A\")",
+			"os.path.relpath(\"A\")",
+			"os.relpath(\"A\")",
+			"import os",
+			"next()",
+			"type(a.keys())",
+			"class(a.keys())",
+			"dir(a.keys())",
+			"a.keys()",
+			"a.items()",
+			"dir(a)",
+			"a.keys()",
+			"a",
+			"a = {}",
+			"a.items(a)",
+			"a.items()",
+			"a = dict",
+			"[x for x in dir(dict) if not x.startswith('__')]",
+			"dir(dict)",
+			"random.randint(0, 10)",
+			"random.randint()",
+			"random.randint(0, 10)",
+			"random.randint()",
+			"dir(random)",
+			"dir(randome)",
+			"random.random()",
+			"random.random",
+			"import random",
+			"dir(math)",
+			"math.random()",
+			"math.rand(0,10)",
+			"import math",
+			"dir(dict)",
+			"dict.is_key",
+			"dict.iskey",
+			"len(range(10))",
+			"range(10)",
+			"print(range(10)[1:])",
+			"print range(10)[1:]",
+			"range(10)[1:]",
+			"os.path.isfile",
+			"import os",
+			"dir(Element)",
+			"Element",
+			"from xml.etree.ElementTree import Element",
+			"from xml.etree import Element",
+			"from xml.etree import ElementTree",
+			"dir(xml.etree)",
+			"xml.etree",
+			"import xml.etree",
+			"dir(xml)",
+			"xml.etree",
+			"xml.etree.ElementTree",
+			"import xml",
+			"a",
+			"a.remove(0)",
+			"a",
+			"a.add(0)",
+			"len(a)",
+			"a",
+			"set().pop()",
+			"a.difference(b).pop()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/projects/RollingBallExample/Assets",
+		"/D/projects/RollingBallExample/Assets/Scenes",
+		"/D/projects/RollingBallExample/Assets/Scripts"
+	],
+	"file_history":
+	[
+		"/D/fable/lucy-puppet/Assets/Fable/Editor/AssetImportHelpers.cs",
+		"/D/fable/lucy-puppet/Assets/Fable/Editor/BuildCommand.cs",
+		"/D/fable/lucy-puppet/RunEditorSmokeTest.bat",
+		"/D/fable/lucy-puppet/footest.log",
+		"/D/fable/lucy-puppet/RunSmokeTest.bat",
+		"/D/fable/lucy-puppet/log.txt",
+		"/D/fable/lucy-puppet/testResults.txt",
+		"/D/fable/lucy-puppet/test.log",
+		"/D/test.log",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Ben/Downloads/Untitled",
+		"/D/fable/curiosities/ci/docker_build.sh",
+		"/D/fable/curiosities/Assets/Editor/BuildCommand.cs",
+		"/D/writing/DFRetro",
+		"/D/fable/curiosities/unityDockerStartup.bat",
+		"/D/fable/curiosities/ci/before_script.sh",
+		"/D/fable/curiosities/ci/build.sh",
+		"/D/fable/curiosities/Temp/UnityLockfile",
+		"/D/fable/curiosities/Unity_v2018.x.ulf",
+		"/D/fable/curiosities/Unity_v2018.3.7f1.alf",
+		"/D/fable/curiosities/ProjectSettings/EditorBuildSettings.asset",
+		"/D/fable/code/scripts/Fable/unityDockerStartup.bat",
+		"/D/projects/imgscrape/src/test/SubrectAvg.py",
+		"/D/projects/imgscrape/src/models/__init__.py",
+		"/D/projects/imgscrape/src/models/BaseModel.py",
+		"/D/projects/imgscrape/data/img/atlases/testatlas_atlas_1.bmp",
+		"/D/projects/imgscrape/data/testatlas.json",
+		"/D/projects/imgscrape/src/__init__.py",
+		"/D/projects/imgscrape/__init__.py",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Perforce/Perforce.sublime-settings",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/User/Perforce.sublime-settings",
+		"/D/projects/imgscrape/data/scrape_progress.json",
+		"/D/projects/imgscrape/data/scrape.json",
+		"/D/projects/imgscrape/src/searchterms.txt",
+		"/Z/shows/wolves/unreal-project/Config/DefaultEditor.ini",
+		"/C/Users/Ben/AppData/LocalLow/Fullbright/Tacoma/TacomaSave000.json",
+		"/D/projects/imgscrape/src/foo.txt",
+		"/D/projects/imgscrape/src/flickrScraprUtil.py",
+		"/D/projects/imgscrape/src/eng_dict.txt",
+		"/C/Users/Ben/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/projects/imgscrape/scrapeproj.sublime-project",
+		"/D/projects/TilemapTest/.p4config",
+		"/D/projects/UE4/UnrealEngine-release/Engine/Plugins/ScriptPlugin/Source/ScriptGeneratorPlugin/Public/IScriptGeneratorPlugin.h",
+		"/D/projects/UE4/UnrealEngine-release/Engine/Extras/VisualStudioSnippets/README.md",
+		"/D/projects/unity_p4_filetypemap.txt",
+		"/D/projects/TilemapTest/.p4ignore",
+		"/D/projects/TilemapTest/Assets/tiles/atlas1_0.asset",
+		"/D/projects/TilemapTest/Assets/scenes/test1.unity"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			" ",
+			"_wheelPrevXfms"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"_wheelPrevPos"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/TireRotationFromMovement.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3293,
+								3293
+							]
+						],
+						"settings":
+						{
+							"SL.14.region_keys":
+							[
+							],
+							"SL.27.region_keys":
+							[
+							],
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/RollingBall.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								156,
+								156
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/D/fable/lucy-puppet/packages.config",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 634,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Assets/Scripts/MoveForward.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 889,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								889,
+								889
+							]
+						],
+						"settings":
+						{
+							"SL.18.region_keys":
+							[
+							],
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 126.0
+	},
+	"output.exec":
+	{
+		"height": 278.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublimeproj.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fli",
+				"src\\flickrScraprUtil.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 173.0,
+		"last_filter": "getphoto",
+		"selected_items":
+		[
+			[
+				"getphoto",
+				"getPhotoInfo"
+			]
+		],
+		"width": 490.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 246.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
