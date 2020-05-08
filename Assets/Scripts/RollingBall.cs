@@ -21,16 +21,18 @@ public class RollingBall : MonoBehaviour
         Vector3 deltaPosition = BallObj.transform.position - prevPosition;
         float distanceTravelled = deltaPosition.magnitude;
 
-        // Use arc length = radius * theta to get angle of wheel travel
+        // TODO Use arc length = radius * theta to get angle of wheel travel
         float angleOfTravel = (distanceTravelled / Radius) * Mathf.Rad2Deg;
 
+        // TODO Make a unity length (ie normalized) direction vector for forward motion of the ball
         Vector3 ballFwd = Vector3.Normalize(Vector3.ProjectOnPlane(deltaPosition, Vector3.up));
+        // TODO Make a vector about which the ball will need to rotate in order to move forward for this tick
         Vector3 axle  = Vector3.Cross(ballFwd, Vector3.down);
 
-        // Apply rotation to wheel by making a quaternion from an angle-axis
+        // TODO Create quaternion for the rotation of the ball on this tick
         Quaternion rotationIncrement = Quaternion.AngleAxis(angleOfTravel, axle);
 
-        // Compose the rotation with the existing wheel rotation
+        // TODO Compose the rotation with the existing wheel rotation
         BallObj.transform.rotation = rotationIncrement * BallObj.transform.rotation;
 
         prevPosition = BallObj.transform.position;
