@@ -180,7 +180,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 221366940}
-  m_LocalRotation: {x: -0.12812266, y: -0.32774162, z: 0.04306948, w: -0.9350482}
+  m_LocalRotation: {x: -0.12812266, y: -0.3277416, z: 0.043069478, w: -0.9350482}
   m_LocalPosition: {x: -4, y: 2, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -206,6 +206,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ef946c56be962484485ccc12d47d7827, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  BallObj: {fileID: 447259727}
   Radius: 0.22
   DebugDraw: 1
 --- !u!114 &447259724
@@ -349,7 +350,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 858534415}
-  m_LocalRotation: {x: -0.12812266, y: -0.32774162, z: 0.04306948, w: -0.9350482}
+  m_LocalRotation: {x: -0.12812266, y: -0.3277416, z: 0.043069478, w: -0.9350482}
   m_LocalPosition: {x: -4, y: 2, z: -5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
