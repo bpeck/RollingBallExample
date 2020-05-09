@@ -53,11 +53,11 @@ public class TireRotationFromMovement : MonoBehaviour
                 Vector3 axle = GetAxisFromEnum(wheel.transform, wheelAxleLocalAxis);
 
                 // TODO Use arc length = radius * theta to get angle of wheel travel
-                float angleOfTravel = distanceTravelled / wheelRadii[i];
+                float angleOfTravel = /* ??? */ 0;
                 // Convert to degrees
                 angleOfTravel *= Mathf.Rad2Deg;
 
-                // TODO Derive a forward vector from world up and axle
+                // Derive a forward vector from world up and axle
                 Vector3 wheelFwd = Vector3.Cross(-Vector3.up, axle);
                 // Get heading direction of movement by projecting delta position on ground plane and normalizing
                 Vector3 motionHeading = Vector3.Normalize(Vector3.ProjectOnPlane(deltaPosition, Vector3.up));
@@ -66,9 +66,9 @@ public class TireRotationFromMovement : MonoBehaviour
                 float forwardMovement = Mathf.Sign(Vector3.Dot(motionHeading, wheelFwd));
 
                 // TODO Determine wheel rotation for this tick by making a quaternion from an angle-axis
-                Quaternion wheelRotationIncrement = Quaternion.AngleAxis(angleOfTravel * forwardMovement, axle);
+                Quaternion wheelRotationIncrement = /* ??? */ Quaternion.identity;
                 // TODO Compose the wheel rotation with the existing wheel rotation
-                wheel.transform.rotation = wheelRotationIncrement * wheel.transform.rotation;
+                wheel.transform.rotation = /* ??? */ wheel.transform.rotation;
 
                 /*
                 Debug.DrawLine(wheel.transform.position, wheel.transform.position + (motionHeading * .25f));

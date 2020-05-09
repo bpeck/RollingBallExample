@@ -30,7 +30,7 @@ public class BobbleHead : MonoBehaviour
         Quaternion FacingGoal = Quaternion.identity;
         if (movementHeading.sqrMagnitude > 0)
         {
-            FacingGoal = Quaternion.LookRotation(movementHeading, Vector3.up);
+            FacingGoal = /* ??? */;
         }
 
         // Pitch head down according to current speed, to lean into the movement
@@ -40,7 +40,7 @@ public class BobbleHead : MonoBehaviour
         // TODO what if we are decelerating? Shouldn't we be leaning back, "against" the speed?
         float leanAngle = Mathf.Lerp(0.0f, 45.0f, speedSqr * 2000.0f);
         // TODO create quaternion representing the amount the head is leaning into forward movement
-        Quaternion LeaningGoal = Quaternion.AngleAxis(leanAngle, Vector3.right);
+        Quaternion LeaningGoal = /* ??? */;
 
         // Combine goal rotations into one
         Quaternion OverallGoalRotation = FacingGoal * LeaningGoal;
